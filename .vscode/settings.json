@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/limjunbeom/ros2_ws/build/forward_rolling_robot",
+        "/home/limjunbeom/ros2_ws/install/forward_rolling_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/limjunbeom/ros2_ws/build/forward_rolling_robot",
+        "/home/limjunbeom/ros2_ws/install/forward_rolling_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
